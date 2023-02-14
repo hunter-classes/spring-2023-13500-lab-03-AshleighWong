@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 03
 
-* Last name:
+* Last name: Wong
 
-* First name:
+* First name: Ashleigh
 
-* GitHub username:
+* GitHub username: AshleighWong
 
 * Notes:
 
