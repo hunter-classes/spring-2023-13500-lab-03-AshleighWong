@@ -7,6 +7,7 @@
 #include "reservoir.h"
 #include "reverseorder.h"
 
+
 int main() 
 {
   //Task A tests
@@ -29,6 +30,10 @@ int main()
   std::cout << "\n\n";
   
   //Task D Test
-  
+  reverse_order("05/26/2018","06/18/2018");
+  std::cout<<"\n";
+  reverse_order("01/01/2018","01/01/2018");
+  std::cout<<"\n";
+
   return 0;
 }
