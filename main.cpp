@@ -14,7 +14,6 @@ int main()
   std::cout << get_east_storage("01/14/2018") << " billion gallons" << "\n";
   std::cout << get_east_storage("05/26/2018") << " billion gallons" << "\n";
   std::cout << get_east_storage("08/25/2018") << " billion gallons" << "\n";
-  std::cout << get_east_storage("12/02/2018") << " billion gallons" << "\n";
   std::cout << "\n\n";
   
   //Task B Test
