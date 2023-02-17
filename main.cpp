@@ -4,12 +4,8 @@
 //GitHub username: AshleighWong
 
 #include <iostream>
-#include <fstream>
-#include <cstdlib>
-#include <climits>
 #include "reservoir.h"
 #include "reverseorder.h"
-#include <string>
 
 int main() 
 {
