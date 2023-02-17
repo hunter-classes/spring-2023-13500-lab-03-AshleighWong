@@ -8,6 +8,7 @@
 #include <cstdlib>
 #include <climits>
 #include "reservoir.h"
+#include "reverseorder.h"
 #include <string>
 
 //TASK A
